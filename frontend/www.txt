@@ -1,0 +1,27 @@
+npx create-react-app@latest frontend
+
+npm install -D tailwindcss@3.4.17
+npx tailwindcss init
+
+ npm i react-icons@5.3.0
+ npm i react-router-dom@6
+
+   npm i react-datepicker@7.4.0 --legacy-peer-deps
+	  npm i moment@2.30.1 --legacy-peer-deps
+
+
+    npm i axios
+npm install dotenv -> environment variables for better security
+
+    roll back react from 19.0.0 to 18.0.0
+    --------------------------------------
+    npm uninstall react react-dom
+    npm install react@18.0.0 react-dom@18.0.0
+    npm list react react-dom
+
+     npm i react-data-table-component@7.6.2
+     	 npm i xlsx@0.18.5
+	 npm i file-saver@2.0.5
+     npm i react-date-range@2.0.1
+
+    npm i react-toastify@10.0.4

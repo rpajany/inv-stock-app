@@ -1,0 +1,18 @@
+.sidebar {
+    width: 60px;
+    transition: width 0.3s ease-in-out;
+}
+
+.sidebar:hover {
+    width: 200px;
+}
+
+.sidebar .menu-text {
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+    white-space: nowrap;
+}
+
+.sidebar:hover .menu-text {
+    opacity: 1;
+}

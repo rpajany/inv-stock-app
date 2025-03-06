@@ -1,0 +1,12 @@
+npm init
+
+npm i express@4.21.2
+npm i cors@2.8.5
+npm i nodemailer
+npm i  dotenv@16.4.5
+npm i nodemon -D
+
+npm i mysql2@3.12.0
+npm i bcryptjs@2.4.3
+npm i jsonwebtoken@9.0.2
+npm i moment@2.30.1
